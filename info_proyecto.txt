@@ -1,3 +1,7 @@
 Otra linea
 Hola
+<<<<<<< HEAD
 Ejercicio 27
+ejercicio26
+ejercicio27
+30bebe23b0fd1ae632dcb6ab2a98ede4c19ec8b2
